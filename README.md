@@ -1,4 +1,4 @@
-![Merllo](screenshots/merllo.png)
+![Logo](screenshots/logo.png)
 
 # April Flowers
 
