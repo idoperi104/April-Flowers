@@ -1,0 +1,6 @@
+[submodule "april-flowers-frontend"]
+	path = april-flowers-frontend
+	url = https://github.com/idoperi104/april-flowers-frontend.git
+[submodule "april-flowers-backend"]
+	path = april-flowers-backend
+	url = https://github.com/idoperi104/april-flowers-backend.git
