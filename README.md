@@ -4,7 +4,7 @@
 
 Welcome to April Flowers, the ultimate online e-commerce flowers store where managers effortlessly control their products, ensuring a seamless and efficient inventory management experience. For users, our platform promises a unique and delightful shopping adventure with an extensive collection of handpicked bouquets. 
 
-The apllication is responsive for all screen sizes. 
+The application is responsive for all screen sizes. 
 
 You can access the deployed application at https://april-flowers.onrender.com/#/.
 
@@ -51,22 +51,22 @@ You can access the deployed application at https://april-flowers.onrender.com/#/
 ### Orders Page
 ![Orders Page](screenshots/orders.png)
 
-The orders page featurs orders management and filtering, and the option to change if the order is paid and shipped.
+The orders page features orders management and filtering, and the option to change if the order is paid and shipped.
 
 ### Categories Page
 ![Categories Page](screenshots/categories.png)
 
-The categories page featurs categories management: add, delete, edit, include category image and theme image.
+The categories page features categories management: add, delete, edit, include category image and theme image.
 
 ### Products Page
 ![Products Page](screenshots/products.png)
 
-The products page featurs products management: add, delete and edit. include filtering by name, category and stock.
+The products page features products management: add, delete and edit. include filtering by name, category and stock.
 
 ### Managers Page
 ![Managers Page](screenshots/managers.png)
 
-The managers page featurs managers management: the ability of other admin to make a new user for admin.
+The managers page features managers management: the ability of other admin to make a new user for admin.
 
 ## Screenshots
 
