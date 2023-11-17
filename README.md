@@ -12,7 +12,7 @@ You can access the deployed application at https://april-flowers.onrender.com/#/
 
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Screenshots](#screenshots)
+- [Screenshots](#screenshots---admin-panel)
 - [Mobile](#mobile)
 - [Getting Started](#getting-started)
 
